@@ -1,0 +1,15 @@
+# temporary files
+*~
+*.tmp
+*.bak
+
+# Build output
+/build
+
+# Files not needed
+*.docx
+*.xls
+
+# ignore directory
+/ignore
+
