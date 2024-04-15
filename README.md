@@ -1,6 +1,6 @@
 # Purpose
-Knowledge sharing. Give a quick overview of various concepts, tools, skills, etc.
-This serves more like an index to get you started ...
+This repo is maintained to give a quick overview of various concepts, tools, skills, etc related to IT.
+This serves more like an index to get you started.
 
 # Organisation
 This repo has information categorized into various categories.
@@ -17,4 +17,4 @@ For more details, one is encouraged to use Google Search, AI (Gemini, Copilot, e
 - **Text Editors IDE** : Text editors and IDEs (Integrated Development Environment)
 - **tests/** : Questions to test your skills
 
-  _This is a work in progress_
+
