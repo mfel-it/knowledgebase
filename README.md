@@ -7,8 +7,6 @@ This repo has information categorized into various categories.
 
 Generally information is given as a one line summary and few useful and easy to understand links for further reading.
 
-For more details, one is encouraged to use Google Search, AI (Gemini, Copilot, etc) and other search and AI tools.
-
 ## Categories
 - **AI** : Artificial Intelligence
 - **Security** : All security related
