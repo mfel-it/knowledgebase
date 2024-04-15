@@ -14,10 +14,12 @@
 
 [Learn Git Branching](https://learngitbranching.js.org): An interactive, visual tutorial focusing on branching concepts.
 
+[Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+
 
 ## Online repositories
 
-- Guthub
+- Github
 - Gitlab : For devops
 - Bitbucket
 - Fogbugz
