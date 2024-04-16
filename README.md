@@ -16,6 +16,6 @@ Generally information is given as a one line summary and few useful and easy to 
 - [Frontend](Frontend.md) : 
 - [Editors](Editors.md) : Text editors and IDEs (Integrated Development Environment)
 - **tests/** : Questions to test your skills
-  - Desktop Support: [CPU](tests/cpu.md) , [RAM](tests/ram.md) , [HDD](tests/hdd.md) , [USB](tests/usb.md) , [SMPS]
+  - Desktop Support: [CPU](tests/cpu.md) , [RAM](tests/ram.md) , [HDD](tests/hdd.md) , [USB](tests/usb.md) , [SMPS], [Motherboard](tests/motherboard.md)
 
 
