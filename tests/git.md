@@ -29,7 +29,7 @@
 
 ---
 ### Questions with Answers
-Absolutely! Let's break down some essential Git concepts with questions and answers focused on cloning, initializing, and understanding their purpose.
+Let's break down some essential Git concepts with questions and answers focused on cloning, initializing, and understanding their purpose.
 
 **Cloning**
 * **Q: What does it mean to "clone" a Git repository?**
