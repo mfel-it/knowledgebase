@@ -49,7 +49,7 @@
 **Q3:  I made changes on the wrong branch! How do I move them?**
 <details><summary>Answer</summary>
 
-**Two common ways:**
+* **Two common ways:**
     * **Stashing:** If it's temporary:
         * `git stash`: Temporarily saves your changes.
         * `git checkout <correct-branch>`  
@@ -63,18 +63,18 @@
 **Q4: How do I view the history of changes in my project?**
 <details><summary>Answer</summary>
 
-`git log`: Displays a list of commits with their IDs, timestamp, author, and commit messages. Use options for customization:
-    * `git log --oneline`: Condensed one-line view.
-    * `git log --graph`: Shows branching structure visually.
+* `git log`: Displays a list of commits with their IDs, timestamp, author, and commit messages. Use options for customization:
+  * `git log --oneline`: Condensed one-line view.
+  * `git log --graph`: Shows branching structure visually.
 </details>
 
 **Q5: How do I undo a recent commit that hasn't been pushed?**
 <details><summary>Answer</summary>
 
-`git reset`: Use with care! There are different modes:
-    * `git reset --soft HEAD^`: Uncommits but keeps the changes staged.
-    * `git reset --mixed HEAD^`: Uncommits and unstages changes (the default).
-    * `git reset --hard HEAD^`: Discards the commit and its changes. 
+* `git reset`: Use with care! There are different modes:
+  * `git reset --soft HEAD^`: Uncommits but keeps the changes staged.
+  * `git reset --mixed HEAD^`: Uncommits and unstages changes (the default).
+  * `git reset --hard HEAD^`: Discards the commit and its changes. 
 </details>
 
 ---
