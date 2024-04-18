@@ -18,7 +18,7 @@ Generally information is given as a one line summary and few useful and easy to 
 
 ### Questions
 - **tests/** : Some thought provoking questions about different topics.
-  - [CPU](tests/cpu.md) , [RAM](tests/ram.md) , [HDD](tests/hdd.md) , [USB](tests/usb.md) , [SMPS](tests/smps.md), [Motherboard](tests/motherboard.md), [Networking](tests/networking.md), [GPU]
+  - [CPU](tests/cpu.md) , [RAM](tests/ram.md) , [HDD](tests/hdd.md) , [USB](tests/usb.md) , [SMPS](tests/smps.md), [Motherboard](tests/motherboard.md), [Networking](tests/networking.md), [GPU](tests/gpu.md)
   - Input Devices: [Keyboard], [Mouse], [Touchpad]
   - Output Devices: [Monitors], [Speakers]
   - Power on: BIOS, CMOS Battery, UEFI
@@ -26,6 +26,9 @@ Generally information is given as a one line summary and few useful and easy to 
   - [Security Audit](tests/security-audit.md)
   - [Markdown](tests/markdown.md)
   - [Git](tests/git.md)
+
+### Miscellaneous
+- For various types of free software licenses please visit [link](https://www.gnu.org/licenses/license-list.html).
 
 ## Acknowledgement
 Many of the questions in this questionnaire were generated in a helpful conversation with the Gemini AI, CoPilot AI, chatGPT AI assistant.  While direct attribution isn't possible in conversational settings,  I'd like to express gratitude to the Gemini, CoPilot, chatGPT projects for their role in developing these educational prompts.
