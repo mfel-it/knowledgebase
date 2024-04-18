@@ -17,11 +17,15 @@ Generally information is given as a one line summary and few useful and easy to 
 - [Editors](Editors.md) : Text editors and IDEs (Integrated Development Environment)
 
 ## Questions
-- **tests/** : Questions to test your skills
-  - [CPU](tests/cpu.md) , [RAM](tests/ram.md) , [HDD](tests/hdd.md) , [USB](tests/usb.md) , [SMPS](tests/smps.md), [Motherboard](tests/motherboard.md), [Network Card], [GPU]
+- **tests/** : Some thought provoking questions about different topics.
+  - [CPU](tests/cpu.md) , [RAM](tests/ram.md) , [HDD](tests/hdd.md) , [USB](tests/usb.md) , [SMPS](tests/smps.md), [Motherboard](tests/motherboard.md), [Networking](tests/networking.md), [GPU]
   - Input Devices: [Keyboard], [Mouse], [Touchpad]
   - Output Devices: [Monitors], [Speakers]
   - Power on: BIOS, CMOS Battery, UEFI
+  - [AI](tests/ai.md)
+  - [Security Audit](tests/security-audit.md)
+  - [Markdown](tests/markdown.md)
+  - [Git](tests/git.md)
 
 **Acknowledgement**
 Many of the questions in this questionnaire were generated in a helpful conversation with the Gemini AI, CoPilot AI, chatGPT AI assistant.  While direct attribution isn't possible in conversational settings,  I'd like to express gratitude to the Gemini, CoPilot, chatGPT projects for their role in developing these educational prompts.
