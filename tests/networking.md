@@ -59,4 +59,31 @@
 * Describe network monitoring tools and what key metrics they track. (Bandwidth usage, device uptime, packet loss, alerts) 
 * What tools might you use to troubleshoot wireless network performance? (WiFi analyzers, site survey tools)
 
+## Wi-Fi Networking
 
+**Fundamentals**
+
+* What is the difference between the 2.4 GHz and 5 GHz Wi-Fi bands? (Coverage vs. speed, interference susceptibility)
+* Explain the concept of Wi-Fi channels and why it's important to choose the right ones. (Minimizing interference)
+* What factors can affect Wi-Fi signal strength and range? (Obstacles, distance, antenna type)
+* Describe the different Wi-Fi security standards (WEP, WPA, WPA2, WPA3). (Evolution of encryption and protection)
+
+**Configuration & Troubleshooting**
+
+* You're experiencing slow Wi-Fi speeds. What are the first few things you would check? (Device distance, channel congestion, router settings)
+* What steps would you take to secure your home Wi-Fi network? (Strong password, WPA2 or higher, updating router firmware)
+* How do you identify which devices are connected to your Wi-Fi network? (Accessing router's interface)
+* Describe a scenario where using a Wi-Fi extender or mesh network might be beneficial. (Large homes, dead zones)
+
+**Advanced Topics**
+
+* What is the difference between a Wi-Fi router and a Wi-Fi access point? (Routing functionality vs. wireless signal broadcasting)
+* Explain the concepts of MU-MIMO and beamforming. (Modern Wi-Fi technologies for improved multi-device performance)
+* Discuss the advantages and disadvantages of the new Wi-Fi 6 (802.11ax) standard. (Higher speeds, better device capacity, but compatibility)
+* How can you troubleshoot Wi-Fi interference from non-Wi-Fi sources (e.g., microwaves)? (Spectrum analyzers, changing channels)
+
+**Practical Scenarios**
+
+* You're setting up Wi-Fi in a multi-story house. What factors do you consider for optimal router placement?
+* You're working in a crowded office environment with many Wi-Fi networks. How can you optimize your network's performance?
+* You need to provide guest Wi-Fi access but want to keep it securely separated from your main network. How would you achieve this? 
