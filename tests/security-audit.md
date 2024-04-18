@@ -210,7 +210,7 @@
 
 Let's use SOC 2 as an example:
 
-* What are the different types of SOC 2 reports (Type I and Type II)? How do they differ?**
+* What are the different types of SOC 2 reports (Type I and Type II)? How do they differ?
 * What are the Trust Services Criteria (TSCs) in SOC 2? (Security, Availability, Processing Integrity, Confidentiality, Privacy)
 * How do you assess the suitability of a service provider's SOC 2 report? (What TSCs are included, and the auditor's opinion)
 
